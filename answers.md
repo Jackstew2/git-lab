@@ -47,3 +47,16 @@ Changes to be committed:
 
 
 Answer 7: 
+On branch master
+nothing to commit, working tree clean
+
+
+Answer 8:
+commit 4e27dd9662a8f5f95c211a73bac26616cfe6e8a7 (HEAD -> master)
+Author: Jackson Stewart <Js651221@ohio.edu>
+Date:   Fri Jan 27 14:17:57 2023 -0500
+
+    initial commit
+
+
+Answer 9:
