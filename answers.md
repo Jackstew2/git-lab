@@ -60,3 +60,20 @@ Date:   Fri Jan 27 14:17:57 2023 -0500
 
 
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+Answer 10: It did not change the file in the local directory
+
+Answer 11: It wont work because the files do not match
+
+Answer 12: Yes, after running pull command the changes are made
+
+Answer 13: 
+.  ..  .git  .gitignore  README.md
+
+
+Answer 14: 
